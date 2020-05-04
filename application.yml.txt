@@ -1,6 +1,0 @@
-spring.application.name=Transactionconfigserver
-server.port=8012
-spring.cloud.config.server.git.uri=https://github.com/khush96/configserve
-spring.cloud.config.server.git.username=khushsarolia96@gmail.com
-spring.cloud.config.server.git.password=Shanumanu@1234
-spring.cloud.config.server.git.clone-on-start=true
