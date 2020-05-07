@@ -7,5 +7,5 @@ spring.datasource.password = welcome
 spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5Dialect
 
 spring.jpa.hibernate.ddl-auto = update
-server.port=8700
+
 eureka.instance.instance-id=${spring.application.name}:${spring.application.instance_id:${random.value}}
